@@ -1,1 +1,2 @@
 hello file2.txt
+hello line2
