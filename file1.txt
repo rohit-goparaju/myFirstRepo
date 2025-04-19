@@ -1,2 +1,3 @@
 Hello Git this is file1.txt
 Hello from line2 
+Hello from line3 added from remote repo.
