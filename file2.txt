@@ -1,2 +1,0 @@
-Hey file2.txt
-Hello line 2 file2
