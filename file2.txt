@@ -1,2 +1,2 @@
-hello file2.txt this is line1
+hello file2.txt this is resolved conflict line1
 hello line2
